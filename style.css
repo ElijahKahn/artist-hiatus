@@ -77,3 +77,11 @@ body {
 #album2Cover {
   margin-bottom: 10px;
 }
+
+.label {
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  font-size: 1rem; /* Adjust the size as needed */
+}

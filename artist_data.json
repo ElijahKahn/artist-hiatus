@@ -6,13 +6,13 @@
         "name": "4 Your Eyez Only",
         "year": 2016,
         "streams": 492000,
-        "album_cover": "/AlbumCovers/4YourEyezOnly.jpeg"
+        "album_cover": "AlbumCovers/4YourEyezOnly.jpeg"
       },
       {
         "name": "KOD",
         "year": 2018,
         "streams": 397000,
-        "album_cover": "/AlbumCovers/JColeKOD.jpg"
+        "album_cover": "AlbumCovers/JColeKOD.jpg"
       }
     ],
     "gap_years": 2
@@ -24,13 +24,13 @@
         "name": "Flower Boy",
         "year": 2017,
         "streams": 106000,
-        "album_cover": "/AlbumCovers/tyler-the-creator-scum-fuck-flower-boy-cover.png.jpeg"
+        "album_cover": "AlbumCovers/tyler-the-creator-scum-fuck-flower-boy-cover.png.jpeg"
       },
       {
         "name": "Igor",
         "year": 2019,
         "streams": 165000,
-        "album_cover": "/AlbumCovers/igor.jpg"
+        "album_cover": "AlbumCovers/igor.jpg"
       }
     ],
     "gap_years": 2
@@ -42,13 +42,13 @@
         "name": "Harder Than Ever",
         "year": 2018,
         "streams": 70000,
-        "album_cover": "/AlbumCovers/HarderThanEver.jpg"
+        "album_cover": "AlbumCovers/HarderThanEver.jpg"
       },
       {
         "name": "My Turn",
         "year": 2020,
         "streams": 197000,
-        "album_cover": "/AlbumCovers/MyTurn.jpg"
+        "album_cover": "AlbumCovers/MyTurn.jpg"
       }
     ],
     "gap_years": 2
@@ -60,13 +60,13 @@
         "name": "Die Lit",
         "year": 2018,
         "streams": 61000,
-        "album_cover": "/AlbumCovers/DieLit.jpg"
+        "album_cover": "AlbumCovers/DieLit.jpg"
       },
       {
         "name": "Whole Lotta Red",
         "year": 2020,
         "streams": 100000,
-        "album_cover": "/AlbumCovers/WLR.jpg"
+        "album_cover": "AlbumCovers/WLR.jpg"
       }
     ],
     "gap_years": 2
@@ -78,13 +78,13 @@
         "name": "Good News",
         "year": 2020,
         "streams": 131000,
-        "album_cover": "/AlbumCovers/GoodNews.jpg"
+        "album_cover": "AlbumCovers/GoodNews.jpg"
       },
       {
         "name": "Traumazine",
         "year": 2022,
         "streams": 63000,
-        "album_cover": "/AlbumCovers/Traumazine.jpg"
+        "album_cover": "AlbumCovers/Traumazine.jpg"
       }
     ],
     "gap_years": 2
@@ -96,13 +96,13 @@
         "name": "When We All Fall Asleep, Where Do We Go?",
         "year": 2019,
         "streams": 313000,
-        "album_cover": "/AlbumCovers/WWFA.jpg"
+        "album_cover": "AlbumCovers/WWFA.jpg"
       },
       {
         "name": "Happier Than Ever",
         "year": 2021,
         "streams": 238000,
-        "album_cover": "/AlbumCovers/HTE.jpg"
+        "album_cover": "AlbumCovers/HTE.jpg"
       }
     ],
     "gap_years": 2
@@ -114,13 +114,13 @@
         "name": "Yeezus",
         "year": 2013,
         "streams": 327000,
-        "album_cover": "/AlbumCovers/Yeezus.jpg"
+        "album_cover": "AlbumCovers/Yeezus.jpg"
       },
       {
         "name": "The Life of Pablo",
         "year": 2016,
         "streams": 94000,
-        "album_cover": "/AlbumCovers/LifeOfPablo.jpg"
+        "album_cover": "AlbumCovers/LifeOfPablo.jpg"
       }
     ],
     "gap_years": 3
@@ -132,13 +132,13 @@
         "name": "At.Long.Last.A$AP",
         "year": 2015,
         "streams": 146000,
-        "album_cover": "/AlbumCovers/ALLA.jpg"
+        "album_cover": "AlbumCovers/ALLA.jpg"
       },
       {
         "name": "Testing",
         "year": 2018,
         "streams": 85000,
-        "album_cover": "/AlbumCovers/Testing.jpg"
+        "album_cover": "AlbumCovers/Testing.jpg"
       }
     ],
     "gap_years": 3
@@ -150,13 +150,13 @@
         "name": "Coloring Book",
         "year": 2016,
         "streams": 57000,
-        "album_cover": "/AlbumCovers/ColoringBook.jpg"
+        "album_cover": "AlbumCovers/ColoringBook.jpg"
       },
       {
         "name": "The Big Day",
         "year": 2019,
         "streams": 108000,
-        "album_cover": "/AlbumCovers/TheBigDay.jpg"
+        "album_cover": "AlbumCovers/TheBigDay.jpg"
       }
     ],
     "gap_years": 3
@@ -168,13 +168,13 @@
         "name": "Luv Is Rage 2",
         "year": 2017,
         "streams": 135000,
-        "album_cover": "/AlbumCovers/LuvisRage2.jpg"
+        "album_cover": "AlbumCovers/LuvisRage2.jpg"
       },
       {
         "name": "Eternal Atake",
         "year": 2020,
         "streams": 288000,
-        "album_cover": "/AlbumCovers/EA.jpg"
+        "album_cover": "AlbumCovers/EA.jpg"
       }
     ],
     "gap_years": 3
@@ -186,13 +186,13 @@
         "name": "Veteran",
         "year": 2018,
         "streams": 13000,
-        "album_cover": "/AlbumCovers/Veteran.jpg"
+        "album_cover": "AlbumCovers/Veteran.jpg"
       },
       {
         "name": "LP!",
         "year": 2021,
         "streams": 12000,
-        "album_cover": "/AlbumCovers/LP.jpg"
+        "album_cover": "AlbumCovers/LP.jpg"
       }
     ],
     "gap_years": 3
@@ -204,13 +204,13 @@
         "name": "Please Excuse Me for Being Antisocial",
         "year": 2019,
         "streams": 101000,
-        "album_cover": "/AlbumCovers/PEMBA.jpg"
+        "album_cover": "AlbumCovers/PEMBA.jpg"
       },
       {
         "name": "Live Life Fast",
         "year": 2022,
         "streams": 62000,
-        "album_cover": "/AlbumCovers/LLF.jpg"
+        "album_cover": "AlbumCovers/LLF.jpg"
       }
     ],
     "gap_years": 3
@@ -222,13 +222,13 @@
         "name": "Bandana",
         "year": 2019,
         "streams": 27000,
-        "album_cover": "/AlbumCovers/Bandana.jpg"
+        "album_cover": "AlbumCovers/Bandana.jpg"
       },
       {
         "name": "$oul $old $eparately",
         "year": 2022,
         "streams": 15000,
-        "album_cover": "/AlbumCovers/SSS.jpg"
+        "album_cover": "AlbumCovers/SSS.jpg"
       }
     ],
     "gap_years": 3
@@ -240,13 +240,13 @@
         "name": "TA13OO",
         "year": 2018,
         "streams": 28000,
-        "album_cover": "/AlbumCovers/TA1300.jpg"
+        "album_cover": "AlbumCovers/TA1300.jpg"
       },
       {
         "name": "Melt My Eyez See Your Future",
         "year": 2022,
         "streams": 59000,
-        "album_cover": "/AlbumCovers/MM.jpg"
+        "album_cover": "AlbumCovers/MM.jpg"
       }
     ],
     "gap_years": 4
@@ -258,13 +258,13 @@
         "name": "DiCaprio 2",
         "year": 2018,
         "streams": 25000,
-        "album_cover": "/AlbumCovers/Dicaprio.jpg"
+        "album_cover": "AlbumCovers/Dicaprio.jpg"
       },
       {
         "name": "The Forever Story",
         "year": 2022,
         "streams": 59000,
-        "album_cover": "/AlbumCovers/TheForeverStory.jpg"
+        "album_cover": "AlbumCovers/TheForeverStory.jpg"
       }
     ],
     "gap_years": 4
@@ -276,13 +276,13 @@
         "name": "Beerbongs & Bentleys",
         "year": 2018,
         "streams": 461000,
-        "album_cover": "/AlbumCovers/BB.jpg"
+        "album_cover": "AlbumCovers/BB.jpg"
       },
       {
         "name": "Twelve Carat Toothache",
         "year": 2022,
         "streams": 139000,
-        "album_cover": "/AlbumCovers/TCT.jpg"
+        "album_cover": "AlbumCovers/TCT.jpg"
       }
     ],
     "gap_years": 4
@@ -294,13 +294,13 @@
         "name": "X 100pre",
         "year": 2018,
         "streams": 20000,
-        "album_cover": "/AlbumCovers/X.jpg"
+        "album_cover": "AlbumCovers/X.jpg"
       },
       {
         "name": "Un Verano Sin Ti",
         "year": 2022,
         "streams": 274000,
-        "album_cover": "/AlbumCovers/Verano.jpg"
+        "album_cover": "AlbumCovers/Verano.jpg"
       }
     ],
     "gap_years": 4
@@ -330,13 +330,13 @@
         "name": "DS2",
         "year": 2015,
         "streams": 149000,
-        "album_cover": "/AlbumCovers/DS2.jpg"
+        "album_cover": "AlbumCovers/DS2.jpg"
       },
       {
         "name": "The WIZRD",
         "year": 2019,
         "streams": 132000,
-        "album_cover": "/AlbumCovers/TheWizrd.jpg"
+        "album_cover": "AlbumCovers/TheWizrd.jpg"
       }
     ],
     "gap_years": 4
@@ -348,13 +348,13 @@
         "name": "Hopeless Fountain Kingdom",
         "year": 2017,
         "streams": 106000,
-        "album_cover": "/AlbumCovers/HFK.jpg"
+        "album_cover": "AlbumCovers/HFK.jpg"
       },
       {
         "name": "If I Can't Have Love, I Want Power",
         "year": 2021,
         "streams": 42000,
-        "album_cover": "/AlbumCovers/IICHL.jpg"
+        "album_cover": "AlbumCovers/IICHL.jpg"
       }
     ],
     "gap_years": 4
@@ -366,13 +366,13 @@
         "name": "Life Changes",
         "year": 2017,
         "streams": 123000,
-        "album_cover": "/AlbumCovers/LifeChanges.jpg"
+        "album_cover": "AlbumCovers/LifeChanges.jpg"
       },
       {
         "name": "Country Again: Side A",
         "year": 2021,
         "streams": 94000,
-        "album_cover": "/AlbumCovers/CountryAgain.jpg"
+        "album_cover": "AlbumCovers/CountryAgain.jpg"
       }
     ],
     "gap_years": 4
@@ -384,13 +384,13 @@
         "name": "Ctrl",
         "year": 2017,
         "streams": 60000,
-        "album_cover": "/AlbumCovers/CTRL.jpg"
+        "album_cover": "AlbumCovers/CTRL.jpg"
       },
       {
         "name": "S.O.S.",
         "year": 2022,
         "streams": 318000,
-        "album_cover": "/AlbumCovers/SOS.jpg"
+        "album_cover": "AlbumCovers/SOS.jpg"
       }
     ],
     "gap_years": 5
@@ -402,13 +402,13 @@
         "name": "Big Fish Theory",
         "year": 2017,
         "streams": 58000,
-        "album_cover": "/AlbumCovers/BFT.jpg"
+        "album_cover": "AlbumCovers/BFT.jpg"
       },
       {
         "name": "Ramona Park Broke My Heart",
         "year": 2022,
         "streams": 13000,
-        "album_cover": "/AlbumCovers/RPBMH.jpg"
+        "album_cover": "AlbumCovers/RPBMH.jpg"
       }
     ],
     "gap_years": 5
@@ -420,13 +420,13 @@
             "name": "Michigan Boy Boat",
             "year": 2021,
             "streams": 14500,
-            "album_cover": "/AlbumCovers/MBB.jpg"
+            "album_cover": "AlbumCovers/MBB.jpg"
           },
       {
         "name": "Let's Start Here.",
         "year": 2023,
         "streams": 36000,
-        "album_cover": "/AlbumCovers/LSH.jpg"
+        "album_cover": "AlbumCovers/LSH.jpg"
       }
     ],
     "gap_years": 2
@@ -438,13 +438,13 @@
         "name": "Queen",
         "year": 2018,
         "streams": 185000,
-        "album_cover": "/AlbumCovers/Queen.jpg"
+        "album_cover": "AlbumCovers/Queen.jpg"
       },
       {
         "name": "Pink Friday 2",
         "year": 2023,
         "streams": 228000,
-        "album_cover": "/AlbumCovers/PF2.jpg"
+        "album_cover": "AlbumCovers/PF2.jpg"
       }
     ],
     "gap_years": 5
