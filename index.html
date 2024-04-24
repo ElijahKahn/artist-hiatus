@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap">
+    <title>Artist Album Success After Hiatus</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+      .chart-container {
+        display: flex;
+        justify-content: space-between;
+      }
+      .chart {
+        width: 125%;
+      }
+      .labels {
+        width: 15%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .label {
+        cursor: pointer;
+        padding: 5px 10px;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+      }
+      .label:hover {
+        background-color: #f0f0f0;
+      }
+      .label.active {
+        background-color: #e0e0e0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Does Artist Hiatus Effect Album Success?</h1>
+    <div class="chart-container">
+      <div class="chart">
+        <canvas id="myChart"></canvas>
+      </div>
+      <div class="labels" id="labels"></div>
+    </div>
+
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <div id="modalContent"></div>
+      </div>
+    </div>
+
+    <div id="filters">
+      <div class="filter">
+        <label for="gapYearsFilter">Filter by Gap Years:</label>
+        <select id="gapYearsFilter">
+          <option value="all">All</option>
+          <option value="2">2 years</option>
+          <option value="3">3 years</option>
+          <option value="4">4 years</option>
+          <option value="5">5 years</option>
+        </select>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

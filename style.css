@@ -1,0 +1,79 @@
+h1 {
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto; 
+  background-color: rgb(0, 0, 0); 
+  background-color: rgba(0, 0, 0, 0.4); 
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; 
+  max-width: 600px;
+  max-height: 80%; 
+  overflow-y: hidden;
+}
+
+/* Close button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#filters {
+  display: flex;
+}
+
+.filter {
+  margin-right: 20px; 
+  margin-top: 15px;
+  margin-left: 115px;
+}
+
+.album-info {
+  display: flex;
+}
+
+.album-info-left,
+.album-info-right {
+  flex: 1;
+  margin-right: 100px; 
+}
+
+.album-cover {
+  width: 150px;
+  height: 150px;
+}
+
+#album1Cover,
+#album2Cover {
+  margin-bottom: 10px;
+}
